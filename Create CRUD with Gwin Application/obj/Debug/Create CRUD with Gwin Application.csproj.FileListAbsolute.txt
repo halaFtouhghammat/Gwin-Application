@@ -1,0 +1,27 @@
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\Create CRUD with Gwin Application.exe.config
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\Create CRUD with Gwin Application.exe
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\Create CRUD with Gwin Application.pdb
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\Entities.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\EntityFramework.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\GenericWinForm.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\LinqKit.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\WinFormField.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\Entities.pdb
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\EntityFramework.xml
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\ar\Entities.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\fr\Entities.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\ar\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\en-GB\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\fr\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\fr-FR\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\ar\WinFormField.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\bin\Debug\fr-FR\WinFormField.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\obj\Debug\Create CRUD with Gwin Application.csprojResolveAssemblyReference.cache
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\obj\Debug\Create_CRUD_with_Gwin_Application.Migrations.Add_Table_Group.resources
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\obj\Debug\Create_CRUD_with_Gwin_Application.Properties.Resources.resources
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\obj\Debug\Create CRUD with Gwin Application.csproj.GenerateResource.Cache
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\obj\Debug\Create CRUD with Gwin Application.exe
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Create CRUD with Gwin Application\obj\Debug\Create CRUD with Gwin Application.pdb

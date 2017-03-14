@@ -1,0 +1,21 @@
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\Entities.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\Entities.pdb
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\fr\Entities.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\ar\Entities.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\GenericWinForm.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\LinqKit.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\WinFormField.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\ar\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\en-GB\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\fr\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\fr-FR\GenericWinForm.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\ar\WinFormField.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\bin\Debug\fr-FR\WinFormField.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\Entities.Resources.Group.Group.resources
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\Entities.Resources.Group.Group .fr.resources
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\Entities.Resources.Group.Group .ar.resources
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\Entities.csproj.GenerateResource.Cache
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\fr\Entities.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\ar\Entities.resources.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\Entities.dll
+C:\Users\ok\Desktop\halaFtouhGhamat_link\tps\Create CRUD with Gwin Application\Entities\obj\Debug\Entities.pdb
